@@ -1,0 +1,54 @@
+.Main-div-focused-open {
+  margin-top: 50px;
+  width: 20%;
+}
+
+.My-select-label-focused-open {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.My-select-focused-open {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  font-family: "Roboto";
+  margin-top: 20px;
+  overflow-y: auto;
+  appearance: none;
+  -webkit-appearance: none;
+  box-shadow: 0px 12px 18px 1px rgba(68, 68, 68, 0.25);
+}
+
+.My-caret-focused-open::before {
+  content: "\f107";
+  font-family: FontAwesome;
+  margin-top: 15px;
+  margin-left: -25px;
+}
+
+.My-select-focused-open * {
+  background-color: white;
+  padding: 5px;
+  background-size: 30px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+
+.My-select-focused-open:focus {
+  outline: none;
+  border-color: #2085dd;
+}
+
+.My-avatar {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  margin-right: 10px;
+  background-position: center;
+  background-size: cover;
+}

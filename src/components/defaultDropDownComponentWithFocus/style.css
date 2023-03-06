@@ -1,0 +1,33 @@
+.Main-div-focus {
+  margin-top: 50px;
+  width: 20%;
+}
+
+.My-select-label-focus {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.My-select-focus {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  font-family: "Roboto";
+  margin-top: 20px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.My-caret-focus::before {
+  content: "\f107";
+  font-family: FontAwesome;
+  margin-top: 35px;
+  margin-left: -25px;
+}
+
+.My-select-focus:focus {
+  outline: none;
+  border-color: #2085dd;
+}

@@ -1,0 +1,43 @@
+.Main-div-hover-open {
+  margin-top: 50px;
+  width: 20%;
+}
+
+.My-select-label-hover-open {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.My-select-hover-open {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  font-family: "Roboto";
+  margin-top: 20px;
+  overflow-y: auto;
+  appearance: none;
+  -webkit-appearance: none;
+  box-shadow: 0px 12px 18px 1px rgba(68, 68, 68, 0.25);
+}
+
+.My-caret-hover-open::before {
+  content: "\f107";
+  font-family: FontAwesome;
+  margin-top: 15px;
+  margin-left: -25px;
+}
+
+.My-select-hover-open * {
+  background-color: white;
+  padding: 5px;
+  background-size: 30px;
+  background-position: left center;
+  background-repeat: no-repeat;
+  padding-left: 40px;
+}
+
+.My-option-hover-open:hover {
+  background-color: #f5ffb5;
+}

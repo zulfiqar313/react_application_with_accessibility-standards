@@ -1,0 +1,28 @@
+.Main-div-default {
+  margin-top: 50px;
+  width: 20%;
+}
+
+.My-select-label-default {
+  font-family: "Roboto";
+  font-weight: bold;
+}
+
+.My-select-default {
+  width: 100%;
+  padding: 12px;
+  font-size: 16px;
+  border: 1px solid #eaeaea;
+  border-radius: 5px;
+  font-family: "Roboto";
+  margin-top: 20px;
+  appearance: none;
+  -webkit-appearance: none;
+}
+
+.My-caret-default::before {
+  content: "\f107";
+  font-family: FontAwesome;
+  margin-top: 35px;
+  margin-left: -25px;
+}
