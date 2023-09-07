@@ -1,6 +1,6 @@
 # This is the implementation of the following case for Everyday. 
 
-![Case_Everyday (1)_page-0001](https://github.com/zulfiqar313/case_everyday/assets/69974518/b858698d-7ed9-4172-b487-97f4599218e7)
+![Case_Everyday (1)_page-0001](https://github.com/zulfiqar313/case_everyday/assets/69974518/6dfe66a6-9e67-4450-a3ee-9fe140e93784)
 
 1) Create the basic component and fetch some data from an API. For example: https://reres.in/api/users.
 
