@@ -9,6 +9,8 @@
 3) Accessibility (WCAG 2.1 standards designs).
 
 
+To run the application: 
+
 ## Install Dependencies
 ```
 npm install
@@ -18,4 +20,5 @@ npm install
 ```
 npm start
 ```
+
 
