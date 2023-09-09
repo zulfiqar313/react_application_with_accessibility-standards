@@ -23,3 +23,9 @@ To run the application, follow these steps:
 
 ```bash
 npm install
+
+### Run App
+```
+npm start
+```
+
